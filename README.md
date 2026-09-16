@@ -1,6 +1,10 @@
 
 # 📘 C Programming – 5-Week Course Syllabus
 
+## Lab 1 — Nihad Ibadzade
+
+I built the Week 1 programs with `make` and ran `./bin/hello` (including `./bin/hello Alice 42`). The greeting in `src/hello.c` was updated so the commit is visible.
+
 This 5-week course introduces core concepts of the C programming language.  
 It is designed for **second-year Computer Science students** who already know Java and/or C++ and will continue with Python afterward.  
 Each week consists of one **lecture** (2×45 min) and one **lab** (2×45 min).
