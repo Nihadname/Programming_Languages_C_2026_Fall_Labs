@@ -1,9 +1,3 @@
-/*
- * Lab 2, Task 1
- * Name: Nihad İbadzade
- * Student ID: 251ADB064
- */
-
 #include <stdio.h>
 
 /*
