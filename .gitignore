@@ -14,5 +14,11 @@ bin/
 # OS
 .DS_Store
 Thumbs.db
+
+# Files created by the Week 5 programs
+data.txt
+student.txt
+students.txt
+student.bin
 .vscode/settings.json
 Makefile copy
